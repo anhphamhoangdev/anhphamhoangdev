@@ -1,15 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact)
-
-
-## Apple Music Recently Listened
-
-
-## Apple Music Recently Listened
-
-<img src="https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/)  [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)  [![Website Badge](https://img.shields.io/badge/-devisha.me-c14438?style=flat-square&logo=Website&logoColor=white&link=https://devisha.me)](https://devisha.me)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
@@ -29,6 +17,14 @@
 </p>
 
 -----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact)
+
+
+
+
+
+
 Credits: [Isha Gupta](https://github.com/Isha2103)
 
 Last Edited on: 25/11/2020

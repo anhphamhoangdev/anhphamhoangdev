@@ -9,7 +9,7 @@
 -  **Organisation :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias)
 
 <p align="center">
-  <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&theme=radical">
+  <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&theme=transparent">
   <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact">
 </p>
 

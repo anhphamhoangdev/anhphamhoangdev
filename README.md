@@ -13,7 +13,7 @@
 
 -  **Education :** Final year student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**
 -  **Main Languages :**
--    - Java, C++ 💻
+    - Java, C++ 💻
 -  **Working :** Currently a Java Backend Developer at a company in Vietnam
 -  **Hobbies :** Footbal ⚽ & Music :headphones:
 -  **Life motto :** We always start from somewhere 🎯

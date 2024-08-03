@@ -14,7 +14,7 @@
       <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&border_radius=5&card_width=500px">
     </td>
     <td>
-      <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact">
+      <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact&card_width=500px">
     </td>
   </tr>
 </table>

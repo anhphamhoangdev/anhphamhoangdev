@@ -10,7 +10,7 @@
 
 <p align="center">
   <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&theme=radical">
-  <img alt="Harris's stats" src="[https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact)">
+  <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact">
 </p>
 
 <p align="center">

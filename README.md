@@ -8,10 +8,16 @@
 -  **Fact :** It's never late to get started 🎯:heart:
 -  **Organisation :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias)
 
-<p align="center"> 
-  <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&theme=transparent"> 
-  <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=pie"> 
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&theme=transparent">
+    </td>
+    <td>
+      <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">

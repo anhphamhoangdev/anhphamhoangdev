@@ -8,23 +8,13 @@
 -  **Fact :** It's never late to get started 🎯:heart:
 -  **Organisation :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias)
 
-<p align="center">
-  <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&theme=transparent">
-  <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact">
-</p>
+<p align="center"> <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&theme=transparent" style="border: 2px solid #ccc; padding: 10px;"> <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact" style="border: 2px solid #ccc; padding: 10px;"> </p>
 
 <p align="center">
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
 </p>
 
 -----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact)
-
-
-
-
-
 
 Credits: [Isha Gupta](https://github.com/Isha2103)
 

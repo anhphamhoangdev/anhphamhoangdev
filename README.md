@@ -11,10 +11,10 @@
 <table align="center">
   <tr>
     <td>
-      <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&border_radius=5&card_width=350px&card_height=200px">
+      <img width="40" height="40" alt="Harris's stats" src="https://github-readme-stats.vercel.app/api?username=anhphamhoangdev&show_icons=true&border_radius=5&card_width=350px&card_height=200px">
     </td>
     <td>
-      <img alt="Harris's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact&card_width=350px&hide=scss,javascript,css">
+      <img width="40" height="40" alt="Harris's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphamhoangdev&layout=compact&card_width=350px&hide=scss,javascript,css">
     </td>
   </tr>
 </table>

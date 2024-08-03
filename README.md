@@ -11,11 +11,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript💻
--  **Hobbies :** Articles📕 & Music :headphones:
--  **Fact :** It's never late to get started 🎯:heart:
--  **Organisation :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias)
+-  **Education :** Final year student at Ho Chi Minh City University of Technology and Education (HCMUTE) :zap: | Open-Source :fire:	
+-  **Main Languages :** Java, C++ 💻
+-  **Working :** Currently a Java Backend Developer at a company in Vietnam
+-  **Hobbies :** Footbal ⚽ & Music :headphones:
+-  **Life motto :** We always start from somewhere 🎯:heart:
 
 <table align="center">
   <tr>

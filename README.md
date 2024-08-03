@@ -19,6 +19,7 @@
 -  **Working :** Currently a Java Backend Developer at a company in Vietnam
 -  **Hobbies :** Footbal ⚽ & Music :headphones:
 -  **Life motto :** We always start from somewhere 🎯
+-  **Goal:** To become a Backend Java Web Developer at major tech companies in Vietnam and internationally
 
 <table align="center">
   <tr>

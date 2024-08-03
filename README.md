@@ -5,7 +5,6 @@
 <a href="https://linkedin.com/in/anh-pham-hoang-866a35246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anh-pham-hoang-866a35246" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anhphamhoang033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anhphamhoang033" height="30" width="40" /></a>
 </p>
-
 <p align="center">
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
 </p>

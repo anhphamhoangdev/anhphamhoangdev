@@ -11,7 +11,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
--  **Education :** Final year student at ####Ho Chi Minh City University of Technology and Education (HCMUTE)#### 
+-  **Education :** Final year student at Ho Chi Minh City University of Technology and Education (HCMUTE) 
 -  **Main Languages :** Java, C++ 💻
 -  **Working :** Currently a Java Backend Developer at a company in Vietnam
 -  **Hobbies :** Footbal ⚽ & Music :headphones:

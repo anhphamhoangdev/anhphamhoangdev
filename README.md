@@ -32,7 +32,4 @@
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
 </p>
 -----
-Credits: [Isha Gupta](https://github.com/Isha2103)
-
-Last Edited on: 25/11/2020
 
